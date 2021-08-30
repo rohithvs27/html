@@ -75,23 +75,23 @@
                 <div class="col-md-12">
                     <!-- <h2>Management</h2> -->
                 </div>
-                <div class="col-md-4 text-center">
+                <div class="col-md-3 text-center">
                     <img src="assets/img/team/yuvaraj.jpg" />
                     <h4>R. Yuvaraj B.E</h4>
                     <p>Managing Director</p>
                 </div>
-                <div class="col-md-4 text-center">
+                <div class="col-md-3 text-center">
                     <img src="assets/img/team/madesh.jpg" width="250px" />
                     <h4>K. Madesh <span>MSc (Edin), ACCA</span></h4>
                     <p>Executive Director</p>
 
                 </div>
-                <!--div class="col-md-3 col-md-offset-1">
+                <div class="col-md-3 col-md-offset-1">
                     <img src="assets/img/team/tamil_selvan.jpg" />
                     <h4>S. Tamilselvan Bsc, MBA, ACMA</h4>
                     <p>Cost Consultant</p>
-                </div-->
-                <div class="col-md-4 text-center">
+                </div>
+                <div class="col-md-3 text-center">
                     <img src="assets/img/team/gokul.jpg" />
                     <h4>Gokula Kannan MBA</h4>
                     <p>Project Finance Consultant</p>
