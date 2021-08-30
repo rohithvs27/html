@@ -1,0 +1,150 @@
+@media (max-width: 768px) {
+.homebanner,
+  header {
+    padding: 15px !important;
+  }
+  .navbar-brand {
+    margin-right: 0 !important;
+  }
+  .signBtn {
+    padding: 10px !important;
+    margin-left: 10px !important;
+  }
+  .navbar-toggler {
+    padding: 0 !important;
+  }
+  .homebanner .content {
+    padding: 60px 0 0 0;
+  }
+
+  .longMenu,
+  .overlay {
+    display: none !important;
+  }
+  .longMenu,
+  .onlineFullmenu,
+  .offlineFullmenu {
+    top: 85px !important;
+  }
+  .longMenu,
+  .onlineFullmenu,
+  .offlineFullmenu {
+    width: 100% !important;
+    padding: 15px !important;
+  }
+  .longMenu ul li {
+    padding: 15px 0 0 !important;
+  }
+  .longMenu ul li a {
+    font-size: 17px !important;
+  }
+  .dropdown-menu {
+    border: none !important;
+  }
+  .dropdown-toggle::after {
+    float: right;
+    margin-top: 12px;
+  }
+  header .navbar .nav-link {
+    padding: 10px 10px !important;
+    margin-top: 0 !important;
+    font-size: 18px !important;
+  }
+  .homebanner p {
+    font-size: 17px !important;
+    line-height: 26px !important;
+  }
+  .whySec .boxSec img {
+    max-width: 100%;
+  }
+  .firstsection .leftbg,
+  .firstsection,
+  .firstsection .towsec {
+    display: block !important;
+    width: 100% !important;
+  }
+  .firstsection .content-sec {
+    padding: 25px 15px !important;
+    float: left;
+  }
+  .firstsection .content-sec h1,
+  .greenBlock p {
+    font-size: 30px !important;
+    line-height: 32px !important;
+  }
+  .greenBlock {
+    padding: 50px 0 50px 0 !important;
+  }
+  .homebanner h1 {
+    font-size: 35px !important;
+    line-height: 40px !important;
+  }
+  .btmSec h1,
+  .onlineTop h1,
+  .whySec h1 {
+    margin-bottom: 10px !important;
+  }
+  .mp-0 {
+    padding: 0 !important;
+  }
+  .cardSec {
+    padding: 40px 20px !important;
+  }
+  .online,
+  .offline {
+    background-size: 250px !important;
+  }
+  .onlineTop .subTxt {
+    margin: 0 auto 20px auto !important;
+  }
+  .onlineTop ul li a {
+    width: 70px !important;
+    font-size: 8px !important;
+    line-height: 10px !important;
+  }
+  .tabSec ul li img {
+    height: 35px !important;
+    padding-bottom: 5px !important;
+  }
+  .onlineTop ul li {
+    min-height: 70px !important;
+    padding: 5px !important;
+  }
+  .onlineTop ul {
+    margin-bottom: 20px !important;
+  }
+  .copyright {
+    text-align: center !important;
+  }
+  .copyright .sociallinks ul {
+    float: none !important;
+  }
+  #aboutThisPlan .price {
+    font-size: 14px !important;
+  }
+  .firstsection .Btn{
+    padding: 14px 20px;
+    max-width: 200px;
+    margin-bottom: 40px;
+  }
+  .expBtn{
+    padding: 14px 20px !important;
+  }
+  .sociallinks{margin-bottom: 20px;}
+  .loction-icon{float: left;}
+}
+@media (min-width: 768px) {
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+  header .navbar .nav-link {
+    margin-left: 20px;
+  }
+  header .navbar-nav .dropdown-menu {
+    display: none !important;
+  }
+}
+@media (max-width:1100px) {
+.firstsection .content-sec { padding: 30px 20px !important; } 
+.firstsection .content-sec h1 { font-size: 35px !important; }
+}
